@@ -4,11 +4,11 @@
 
 ## *Responsividade no Ipad:*
 
-### <img src="C:\Users\lffm1\Documents\Desenvolvimento\BootCamp Dev Web DIO\Instagram\Responsividade Ipad.png" alt="Responsividade Ipad" style="zoom:25%;" />
+### <img src="https://github.com/fonluc/instagram-login-page/blob/main/Responsividade%20Ipad.png" alt="Responsividade Ipad" style="zoom:25%;" />
 
 ## *Responsividade no Iphone:*
 
-## <img src="C:\Users\lffm1\Documents\Desenvolvimento\BootCamp Dev Web DIO\Instagram\Responsividade Iphone.png" alt="Responsividade Iphone" style="zoom:25%;" />
+## <img src="https://github.com/fonluc/instagram-login-page/blob/main/Responsividade%20Iphone.png" alt="Responsividade Iphone" style="zoom:25%;" />
 
 ### **Tecnologias e Técnicas Utilizadas**:
 
