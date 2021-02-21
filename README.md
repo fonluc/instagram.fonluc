@@ -4,11 +4,11 @@
 
 ## *Responsividade no Ipad:*
 
-### <img src="https://github.com/fonluc/instagram-login-page/blob/main/Responsividade%20Ipad.png" alt="Responsividade Ipad" style="zoom:25%;" />
+### <img src="https://github.com/fonluc/instagram-login-page/blob/main/Responsividade%20Ipad.png" alt="Responsividade Ipad" style="zoom:10%;" />
 
 ## *Responsividade no Iphone:*
 
-## <img src="https://github.com/fonluc/instagram-login-page/blob/main/Responsividade%20Iphone.png" alt="Responsividade Iphone" style="zoom:25%;" />
+## <img src="https://github.com/fonluc/instagram-login-page/blob/main/Responsividade%20Iphone.png" alt="Responsividade Iphone" style="zoom:10%;" />
 
 ### **Tecnologias e Técnicas Utilizadas**:
 
