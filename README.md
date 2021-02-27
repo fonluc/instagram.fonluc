@@ -1,18 +1,18 @@
-# **Clone da Página de Login do Instagram :camera:**
+# Instagram Login Page Clone :camera:
 
-## Realizado por Lucas Martins (@fonluc) com ajuda  da Professora Gabriela Pinheiro (@SpruceGabriela), durante o Bootcamp de Desenvolvimento Web da Digital Innovation One.
+## Realized by Lucas Martins (@fonluc) with the help of Teacher Gabriela Pinheiro (@SpruceGabriela), during Digital Innovation One's Web Development Bootcamp.
 
-## *Responsividade no Ipad:*
+## *Responsiveness on Ipad:*
 
 ### <img src="https://github.com/fonluc/instagram-login-page/blob/main/Responsividade%20Ipad.png" alt="Responsividade Ipad" style="zoom:10%;" />
 
-## *Responsividade no Iphone:*
+## *Responsiveness on Iphone:*
 
 ## <img src="https://github.com/fonluc/instagram-login-page/blob/main/Responsividade%20Iphone.png" alt="Responsividade Iphone" style="zoom:10%;" />
 
-### **Tecnologias e Técnicas Utilizadas**:
+### Technologies and Techniques Used:
 
-- HTML5 e CSS3 com responsividade voltada para dispositivos móveis.
+- HTML5 and CSS3, and skills focused on mobile responsiveness.
 
 
 
